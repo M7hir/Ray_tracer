@@ -1,5 +1,5 @@
+#include <iostream>
 #include <algorithm>	
-#include <ostream>
 #include <cmath>
 
 class Vec {
